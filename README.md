@@ -22,10 +22,8 @@ cargo embed 0.24.0 (git commit: 35dbf06)
 
 ## Прошивка:
 
-cargo clean
-
-cargo embed
+```cargo clean && cargo embed```
 
 ## P.S.:
 
-секции дополняются
+секции дополняются...
