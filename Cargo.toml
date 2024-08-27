@@ -1,0 +1,10 @@
+[package]
+name = "stm32_3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cortex-m = { version = "0.7.7", features = ["critical-section-single-core"] }
+cortex-m-rt = "0.7.3"
+panic-halt = "0.2.0"
+stm32f1xx-hal = { version = "0.10.0", features = ["medium", "rt", "stm32f103"] }
