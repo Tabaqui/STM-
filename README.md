@@ -12,6 +12,8 @@ memory.x -- разметка памяти
 
 ## Окружение:
 
+Linux 6.10.6-arch1-1 #1 SMP PREEMPT_DYNAMIC Mon, 19 Aug 2024 17:02:39 +0000 x86_64 GNU/Linux
+
 rustc 1.80.1 (3f5fd8dd4 2024-08-06)
 
 rustup 1.27.1 (2024-05-07)
@@ -24,6 +26,6 @@ cargo clean
 
 cargo embed
 
-## 
+## P.S.:
 
-P.S.:
+секции дополняются
