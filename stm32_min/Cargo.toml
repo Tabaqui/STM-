@@ -1,5 +1,5 @@
 [package]
-name = "stm32_3"
+name = "stm32_min"
 version = "0.1.0"
 edition = "2021"
 
